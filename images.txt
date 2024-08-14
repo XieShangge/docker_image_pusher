@@ -11,3 +11,4 @@ postgres:14-alpine
 redis:7-alpine
 eclipse-mosquitto:2
 elasticsearch:8.6.0
+kibana:8.6.0
