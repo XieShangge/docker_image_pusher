@@ -3,13 +3,14 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-chirpstack/chirpstack:4
-chirpstack/chirpstack-gateway-bridge:4
-chirpstack/chirpstack-rest-api:4
-postgres:14-alpine
-redis:7-alpine
-eclipse-mosquitto:2
-elasticsearch:8.6.0
-kibana:8.6.0
-tdengine/tdengine:3.0.1.4
+#--platform=linux/arm64 xiaoyaliu/alist
+#chirpstack/chirpstack:4
+#chirpstack/chirpstack-gateway-bridge:4
+#chirpstack/chirpstack-rest-api:4
+#postgres:14-alpine
+#redis:7-alpine
+#eclipse-mosquitto:2
+#elasticsearch:8.6.0
+#kibana:8.6.0
+#tdengine/tdengine:3.0.1.4
+emqx/emqx-enterprise:5.7.2
