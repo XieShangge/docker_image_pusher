@@ -13,4 +13,4 @@
 #elasticsearch:8.6.0
 #kibana:8.6.0
 #tdengine/tdengine:3.0.1.4
-emqx/emqx-enterprise:5.7.2
+emqx/emqx:5.7.2
