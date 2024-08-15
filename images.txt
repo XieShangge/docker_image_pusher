@@ -12,3 +12,4 @@ redis:7-alpine
 eclipse-mosquitto:2
 elasticsearch:8.6.0
 kibana:8.6.0
+tdengine/tdengine:3.0.1.4
