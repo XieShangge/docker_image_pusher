@@ -13,4 +13,5 @@
 #elasticsearch:8.6.0
 #kibana:8.6.0
 #tdengine/tdengine:3.0.1.4
-emqx/emqx:5.7.2
+#emqx/emqx:5.7.2
+minio/minio:RELEASE.2024-08-03T04-33-23Z.fips
