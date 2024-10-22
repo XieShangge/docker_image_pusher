@@ -16,4 +16,5 @@
 #emqx/emqx:5.7.2
 #minio/minio:RELEASE.2024-08-03T04-33-23Z.fips
 #mysql:8.4.2
-mysql:5.6.51
+#mysql:5.6.51
+emqx/mqttx-web:v1.10.1
